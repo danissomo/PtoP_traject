@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /opt/ros/melodic/share/PtoP_traject/devel/setup.sh

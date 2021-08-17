@@ -1,0 +1,13 @@
+/usr/local/_setup_util.py
+/usr/local/env.sh
+/usr/local/setup.bash
+/usr/local/local_setup.bash
+/usr/local/setup.sh
+/usr/local/local_setup.sh
+/usr/local/setup.zsh
+/usr/local/local_setup.zsh
+/usr/local/.rosinstall
+/usr/local/share/PtoP_traject/srv/PtoP_traject.srv
+/usr/local/lib/PtoP_traject/ptop_server.py
+/usr/local/lib/PtoP_traject/tools.py
+/usr/local/lib/PtoP_traject/planner.py

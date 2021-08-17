@@ -1,0 +1,14 @@
+<package>
+  <description brief="PtoP_traject">
+
+     PtoP_traject
+
+  </description>
+  <author>dan</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/PtoP_traject</url>
+  <depend package="rospy"/>
+  <build_depend>std_msgs</build_depend>
+  <exec_depend>std_msgs</exec_depend>
+</package>
